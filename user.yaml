@@ -1,0 +1,3 @@
+# Extra Milvus configuration, layered on top of /milvus/configs/milvus.yaml.
+# Left empty deliberately: every setting this template needs is passed through
+# the environment so a deployer can override it from the Railway dashboard.
