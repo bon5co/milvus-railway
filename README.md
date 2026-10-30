@@ -1,5 +1,9 @@
 # milvus-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/milvus-or-just-updated-vector-database-i?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Milvus template](https://railway.com/deploy/milvus-or-just-updated-vector-database-i?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [Milvus](https://github.com/milvus-io/milvus) on
 [Railway](https://railway.com) as a **single service**.
 
